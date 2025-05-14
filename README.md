@@ -1,6 +1,6 @@
 ### Hi there, I'm Nav 👋
 
-I'm a civil/structural engineer passionate about data science, GIS, and infrastructure tech.  
+I'm a structural engineer passionate about data science, GIS, and infrastructure tech.  
 Currently learning and contributing through projects in Python, Git, and open-source collaborations like Omdena.
 
 🛠️ Tools & Languages:
