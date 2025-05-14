@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Nav 👋
 
-<!--
-**npanerugithub2024/npanerugithub2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a civil/structural engineer passionate about data science, GIS, and infrastructure tech.  
+Currently learning and contributing through projects in Python, Git, and open-source collaborations like Omdena.
 
-Here are some ideas to get you started:
+🛠️ Tools & Languages:
+- Python, Git, AutoCAD, Civil 3D
+- GeoPandas, Rasterio, Streamlit, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Focus:
+- Climate and infrastructure data visualization
+- Git and version control best practices
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nav-paneru/)) | [Email](mailto:npaneru8@email.com)
