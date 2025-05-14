@@ -11,4 +11,4 @@ Currently learning and contributing through projects in Python, Git, and open-so
 - Climate and infrastructure data visualization
 - Git and version control best practices
 
-📫 How to reach me: ([LinkedIn](https://www.linkedin.com/in/nav-paneru/)) | [Email](mailto:npaneru8@email.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nav-paneru/) | [Email](mailto:npaneru8@email.com)
